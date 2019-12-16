@@ -9,7 +9,7 @@ pipeline {
 
         stage ('Test Front') {
             steps {
-                sh '''
+                bat '''
                     gradlew clean test --info
                 '''
             }
