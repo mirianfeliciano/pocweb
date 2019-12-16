@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cenario: Login no site" tests="5" skipped="2" failures="0" errors="0" timestamp="2019-12-16T22:20:50" hostname="INOTE409" time="0.114">
+  <properties/>
+  <testcase name="Dado que um usuario entre com o user &quot;admin&quot;" classname="Cenario: Login no site" time="0.001"/>
+  <testcase name="E a senha &quot;admin&quot;" classname="Cenario: Login no site" time="0.001"/>
+  <testcase name="Quando clicar no botão login" classname="Cenario: Login no site" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Entao deve ocorrer o login com sucesso" classname="Cenario: Login no site" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="Cenario: Login no site" time="0.423"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
